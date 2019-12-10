@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MikeoPerfect&#39;s Diary</title>
+  
+  <subtitle>故事太多，需要找个地方记录一下</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.mikeoperfect.com/"/>
+  <updated>2019-12-10T09:38:00.612Z</updated>
+  <id>https://blog.mikeoperfect.com/</id>
+  
+  <author>
+    <name>MikeoPerfect</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试开眼API</title>
+    <link href="https://blog.mikeoperfect.com/posts/60227/"/>
+    <id>https://blog.mikeoperfect.com/posts/60227/</id>
+    <published>2019-12-08T10:54:03.000Z</published>
+    <updated>2019-12-10T09:38:00.612Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;测试开眼API&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="vedio" scheme="https://blog.MikeoPerfect.com/categories/vedio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mini项目回忆录</title>
+    <link href="https://blog.mikeoperfect.com/posts/31094/"/>
+    <id>https://blog.mikeoperfect.com/posts/31094/</id>
+    <published>2019-08-25T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一个过程比结局更精彩的故事&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="socialwork" scheme="https://blog.MikeoPerfect.com/categories/socialwork/"/>
+    
+    
+      <category term="socialwork" scheme="https://blog.MikeoPerfect.com/tags/socialwork/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>金百合大酒店奇遇记</title>
+    <link href="https://blog.mikeoperfect.com/posts/45077/"/>
+    <id>https://blog.mikeoperfect.com/posts/45077/</id>
+    <published>2019-07-23T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.620Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;好像做了一个梦，按照记忆写下来拾掇拾掇&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="socialwork" scheme="https://blog.MikeoPerfect.com/categories/socialwork/"/>
+    
+    
+      <category term="socialwork" scheme="https://blog.MikeoPerfect.com/tags/socialwork/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>复仇者联盟：终极之战——上线前夕</title>
+    <link href="https://blog.mikeoperfect.com/posts/56588/"/>
+    <id>https://blog.mikeoperfect.com/posts/56588/</id>
+    <published>2019-05-23T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.600Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;漫威还是DC？ 只知道很燃&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019HUAWEI软件挑战赛的日常</title>
+    <link href="https://blog.mikeoperfect.com/posts/23899/"/>
+    <id>https://blog.mikeoperfect.com/posts/23899/</id>
+    <published>2019-04-10T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.584Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一次有意义的比赛，值得纪念&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="competition" scheme="https://blog.MikeoPerfect.com/tags/competition/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年的想法</title>
+    <link href="https://blog.mikeoperfect.com/posts/56570/"/>
+    <id>https://blog.mikeoperfect.com/posts/56570/</id>
+    <published>2019-01-30T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 一家之言，不足为奇&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的一年开始了</title>
+    <link href="https://blog.mikeoperfect.com/posts/19161/"/>
+    <id>https://blog.mikeoperfect.com/posts/19161/</id>
+    <published>2019-01-01T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.608Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来自新年的问候&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再出发</title>
+    <link href="https://blog.mikeoperfect.com/posts/36368/"/>
+    <id>https://blog.mikeoperfect.com/posts/36368/</id>
+    <published>2018-11-01T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.584Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苏州公司实习</title>
+    <link href="https://blog.mikeoperfect.com/posts/7511/"/>
+    <id>https://blog.mikeoperfect.com/posts/7511/</id>
+    <published>2018-08-14T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.612Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;实习一个月，纪念一下&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吉比特OpenDay</title>
+    <link href="https://blog.mikeoperfect.com/posts/51618/"/>
+    <id>https://blog.mikeoperfect.com/posts/51618/</id>
+    <published>2018-07-23T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 吉比特游戏公司OpenDay&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="competition" scheme="https://blog.MikeoPerfect.com/tags/competition/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苏州实习前一天</title>
+    <link href="https://blog.mikeoperfect.com/posts/23477/"/>
+    <id>https://blog.mikeoperfect.com/posts/23477/</id>
+    <published>2018-07-09T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.612Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;来这边的第一天，纪念一下&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苏州工业园区游记</title>
+    <link href="https://blog.mikeoperfect.com/posts/4633/"/>
+    <id>https://blog.mikeoperfect.com/posts/4633/</id>
+    <published>2018-07-08T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.612Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt;  本次活动由楷呈策划的，目的是带着我们去看房。。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七月的第一天</title>
+    <link href="https://blog.mikeoperfect.com/posts/39918/"/>
+    <id>https://blog.mikeoperfect.com/posts/39918/</id>
+    <published>2018-07-01T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是党的生日，值得纪念一下&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI考试</title>
+    <link href="https://blog.mikeoperfect.com/posts/57631/"/>
+    <id>https://blog.mikeoperfect.com/posts/57631/</id>
+    <published>2018-06-29T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;划水一天，下次可不能这样了！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的毕业季</title>
+    <link href="https://blog.mikeoperfect.com/posts/21370/"/>
+    <id>https://blog.mikeoperfect.com/posts/21370/</id>
+    <published>2018-06-10T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.612Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;又是一年毕业季节，心里还是挺有感触的   前几日早上匆忙从食堂赶往教室去上课，途中碰见一群群身着毕业服饰的学长学姐们，结着伴的走往学校图书馆门前的广场，2018年5月8日，感触良多。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>五月的尾巴</title>
+    <link href="https://blog.mikeoperfect.com/posts/6889/"/>
+    <id>https://blog.mikeoperfect.com/posts/6889/</id>
+    <published>2018-05-31T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;原本以为今年的四月已经很刺激了，没想到五月更加令人crazy，简直要疯了，等我闲下来了，好好梳理梳理这个命途多揣的五月&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实习生之旅（二）</title>
+    <link href="https://blog.mikeoperfect.com/posts/16145/"/>
+    <id>https://blog.mikeoperfect.com/posts/16145/</id>
+    <published>2018-05-25T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.608Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有趣的实习生之旅（二）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hackathon</title>
+    <link href="https://blog.mikeoperfect.com/posts/49729/"/>
+    <id>https://blog.mikeoperfect.com/posts/49729/</id>
+    <published>2018-05-14T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;大学比较有意思的校外活动，尤其是Hack文化&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="competition" scheme="https://blog.MikeoPerfect.com/tags/competition/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实习生之旅（一）</title>
+    <link href="https://blog.mikeoperfect.com/posts/44907/"/>
+    <id>https://blog.mikeoperfect.com/posts/44907/</id>
+    <published>2018-05-05T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.600Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有趣的实习生之旅（一）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+      <category term="Intern" scheme="https://blog.MikeoPerfect.com/tags/Intern/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4月的总结</title>
+    <link href="https://blog.mikeoperfect.com/posts/43922/"/>
+    <id>https://blog.mikeoperfect.com/posts/43922/</id>
+    <published>2018-04-30T13:26:04.000Z</published>
+    <updated>2019-12-10T09:38:00.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;OK,Let’s GO&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/categories/campus/"/>
+    
+    
+      <category term="campus" scheme="https://blog.MikeoPerfect.com/tags/campus/"/>
+    
+  </entry>
+  
+</feed>
