@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MikeoPerfect&#39;s Diary</title>
+  
+  <subtitle>故事太多，需要找个地方记录一下</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.mikeoperfect.com/"/>
+  <updated>2021-06-19T15:57:58.173Z</updated>
+  <id>https://blog.mikeoperfect.com/</id>
+  
+  <author>
+    <name>MikeoPerfect</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一次值得纪念的部门会议</title>
+    <link href="https://blog.mikeoperfect.com/posts/30112/"/>
+    <id>https://blog.mikeoperfect.com/posts/30112/</id>
+    <published>2021-04-27T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.173Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;4.27日，周二 上午; 深圳的天气开始下雨了，雨不大，毛毛雨，颇有烟雨江南的朦胧&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="WORKPLACE" scheme="https://blog.MikeoPerfect.com/categories/WORKPLACE/"/>
+    
+    
+      <category term="work place" scheme="https://blog.MikeoPerfect.com/tags/work-place/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小鹏汽车试驾</title>
+    <link href="https://blog.mikeoperfect.com/posts/40737/"/>
+    <id>https://blog.mikeoperfect.com/posts/40737/</id>
+    <published>2021-04-19T16:00:00.000Z</published>
+    <updated>2021-06-19T15:57:58.189Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;对小鹏汽车很感兴趣，拉风的剪刀门 让电动车也可以体验跑车的快乐，周末去试驾了小鹏汽车&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+      <category term="Technology Product" scheme="https://blog.MikeoPerfect.com/tags/Technology-Product/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>翻译API使用指南</title>
+    <link href="https://blog.mikeoperfect.com/posts/40916/"/>
+    <id>https://blog.mikeoperfect.com/posts/40916/</id>
+    <published>2021-04-09T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.225Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; Chrome插件 translate-man用的不爽，想自己弄个翻译API，翻了下网上冲浪手册，收费是不可能的，还是白嫖比较香&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="TECHNOLOGY" scheme="https://blog.MikeoPerfect.com/categories/TECHNOLOGY/"/>
+    
+    
+      <category term="technology" scheme="https://blog.MikeoPerfect.com/tags/technology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摩尔庄园</title>
+    <link href="https://blog.mikeoperfect.com/posts/59601/"/>
+    <id>https://blog.mikeoperfect.com/posts/59601/</id>
+    <published>2021-03-28T10:54:03.000Z</published>
+    <updated>2021-06-19T15:57:58.205Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;闲逛B站，偶然发现 摩尔庄园手游宣传片，对吉比特这家公司有所好感，300时很想买ta一手股票…&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="VEDIO" scheme="https://blog.MikeoPerfect.com/categories/VEDIO/"/>
+    
+    
+      <category term="game" scheme="https://blog.MikeoPerfect.com/tags/game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读《大国大城》有感</title>
+    <link href="https://blog.mikeoperfect.com/posts/55550/"/>
+    <id>https://blog.mikeoperfect.com/posts/55550/</id>
+    <published>2021-02-12T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.241Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;辛丑牛年，新春第一天，读《大国大城》有感&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="BOOK NOTES" scheme="https://blog.MikeoPerfect.com/categories/BOOK-NOTES/"/>
+    
+    
+      <category term="book" scheme="https://blog.MikeoPerfect.com/tags/book/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年元旦小假期</title>
+    <link href="https://blog.mikeoperfect.com/posts/4993/"/>
+    <id>https://blog.mikeoperfect.com/posts/4993/</id>
+    <published>2021-01-01T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.165Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2021年的元旦，广州之旅&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="REUNION" scheme="https://blog.MikeoPerfect.com/categories/REUNION/"/>
+    
+    
+      <category term="reunion" scheme="https://blog.MikeoPerfect.com/tags/reunion/"/>
+    
+      <category term="happy" scheme="https://blog.MikeoPerfect.com/tags/happy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国庆见闻</title>
+    <link href="https://blog.mikeoperfect.com/posts/5295/"/>
+    <id>https://blog.mikeoperfect.com/posts/5295/</id>
+    <published>2020-10-05T06:32:11.000Z</published>
+    <updated>2021-06-19T15:57:58.177Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今年的国庆假期，出了一趟远门&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+      <category term="holiday activities" scheme="https://blog.MikeoPerfect.com/tags/holiday-activities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>寻找源头--临在当下</title>
+    <link href="https://blog.mikeoperfect.com/posts/5285/"/>
+    <id>https://blog.mikeoperfect.com/posts/5285/</id>
+    <published>2020-09-20T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.189Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 近日偶然读了一篇文章，里面传达出的奇特观点，让人耳目一新&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="THOUGHTS" scheme="https://blog.MikeoPerfect.com/categories/THOUGHTS/"/>
+    
+    
+      <category term="thoughts" scheme="https://blog.MikeoPerfect.com/tags/thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笔记本电脑维修日记</title>
+    <link href="https://blog.mikeoperfect.com/posts/4336/"/>
+    <id>https://blog.mikeoperfect.com/posts/4336/</id>
+    <published>2020-09-05T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.221Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;去年买的笔记本电脑开始鼓包了，记录一下维修日记&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="DIGITAL PRODUCT" scheme="https://blog.MikeoPerfect.com/categories/DIGITAL-PRODUCT/"/>
+    
+    
+      <category term="computer" scheme="https://blog.MikeoPerfect.com/tags/computer/"/>
+    
+      <category term="digital product" scheme="https://blog.MikeoPerfect.com/tags/digital-product/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QQ潮玩展会游记</title>
+    <link href="https://blog.mikeoperfect.com/posts/5644/"/>
+    <id>https://blog.mikeoperfect.com/posts/5644/</id>
+    <published>2020-08-30T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.169Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 好友周末聚会，正好QQ潮玩展会，体验一下&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="REUNION" scheme="https://blog.MikeoPerfect.com/categories/REUNION/"/>
+    
+    
+      <category term="reunion" scheme="https://blog.MikeoPerfect.com/tags/reunion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐编程</title>
+    <link href="https://blog.mikeoperfect.com/posts/60384/"/>
+    <id>https://blog.mikeoperfect.com/posts/60384/</id>
+    <published>2020-08-27T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.241Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 近日发现一款 有趣的 app，使用 Lua语言编程实现音乐播放&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="APP" scheme="https://blog.MikeoPerfect.com/categories/APP/"/>
+    
+    
+      <category term="game" scheme="https://blog.MikeoPerfect.com/tags/game/"/>
+    
+      <category term="music" scheme="https://blog.MikeoPerfect.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大西北团建</title>
+    <link href="https://blog.mikeoperfect.com/posts/36070/"/>
+    <id>https://blog.mikeoperfect.com/posts/36070/</id>
+    <published>2020-08-14T13:26:04.000Z</published>
+    <updated>2021-06-19T15:57:58.177Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 一年一度的部门团建又开始了，路线很多，这一次开始了环大西北之旅&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>港股打新记</title>
+    <link href="https://blog.mikeoperfect.com/posts/7376/"/>
+    <id>https://blog.mikeoperfect.com/posts/7376/</id>
+    <published>2020-08-08T10:54:03.000Z</published>
+    <updated>2021-06-19T15:57:58.213Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2020.0808，这是个吉利的数字，这一天我激活了香港汇丰账户，开始了港股打新篇&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="FINANCES" scheme="https://blog.MikeoPerfect.com/categories/FINANCES/"/>
+    
+    
+      <category term="manage finances" scheme="https://blog.MikeoPerfect.com/tags/manage-finances/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写给你的歌</title>
+    <link href="https://blog.mikeoperfect.com/posts/3782/"/>
+    <id>https://blog.mikeoperfect.com/posts/3782/</id>
+    <published>2020-07-25T16:00:00.000Z</published>
+    <updated>2021-06-19T15:58:18.791Z</updated>
+    
+    <summary type="html">
+    
+      有东西被加密了, 请输入密码查看.
+    
+    </summary>
+    
+    
+      <category term="PEARL BOX" scheme="https://blog.MikeoPerfect.com/categories/PEARL-BOX/"/>
+    
+    
+      <category term="Personal Letter" scheme="https://blog.MikeoPerfect.com/tags/Personal-Letter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深圳较场尾民宿之旅</title>
+    <link href="https://blog.mikeoperfect.com/posts/56047/"/>
+    <id>https://blog.mikeoperfect.com/posts/56047/</id>
+    <published>2020-06-28T10:54:03.000Z</published>
+    <updated>2021-06-19T15:57:58.209Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2020.06.28，赶在6月的尾巴，得益于wesee项目奖金，小组计划深圳海边民宿之旅&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>惠州双月湾游记</title>
+    <link href="https://blog.mikeoperfect.com/posts/39666/"/>
+    <id>https://blog.mikeoperfect.com/posts/39666/</id>
+    <published>2020-05-05T06:32:11.000Z</published>
+    <updated>2021-06-19T15:57:58.193Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今年的五一劳动节，自驾游了一趟惠州双月湾，感觉很不错&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+      <category term="holiday activities" scheme="https://blog.MikeoPerfect.com/tags/holiday-activities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蔚来汽车试驾</title>
+    <link href="https://blog.mikeoperfect.com/posts/60970/"/>
+    <id>https://blog.mikeoperfect.com/posts/60970/</id>
+    <published>2020-03-14T06:32:11.000Z</published>
+    <updated>2021-06-19T15:57:58.237Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近迷上了能上路的电动车，周末前往深圳福田平安金融中心，试驾了蔚来汽车，感觉很酷&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ACTIVITY" scheme="https://blog.MikeoPerfect.com/categories/ACTIVITY/"/>
+    
+    
+      <category term="social activity" scheme="https://blog.MikeoPerfect.com/tags/social-activity/"/>
+    
+      <category term="Technology Product" scheme="https://blog.MikeoPerfect.com/tags/Technology-Product/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>独立游戏大电影</title>
+    <link href="https://blog.mikeoperfect.com/posts/14062/"/>
+    <id>https://blog.mikeoperfect.com/posts/14062/</id>
+    <published>2020-03-08T08:30:00.000Z</published>
+    <updated>2021-06-19T15:57:58.217Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;被好友安利了一波，看了一部制作游戏的记录片-&lt;a href=&quot;https://www.bilibili.com/video/av19570263?from=search&amp;seid=10183043575656878704&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《独立游戏大电影》&lt;/a&gt;，讲的是三个团队，四个开发者，三款游戏，一个终极目标 —— 通过这部纪录片共同表达了出来的故事&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MOVIES" scheme="https://blog.MikeoPerfect.com/categories/MOVIES/"/>
+    
+    
+      <category term="movies" scheme="https://blog.MikeoPerfect.com/tags/movies/"/>
+    
+      <category term="Engineer Management" scheme="https://blog.MikeoPerfect.com/tags/Engineer-Management/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小白的困惑</title>
+    <link href="https://blog.mikeoperfect.com/posts/7931/"/>
+    <id>https://blog.mikeoperfect.com/posts/7931/</id>
+    <published>2020-02-17T16:00:00.000Z</published>
+    <updated>2021-06-19T15:57:58.189Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;隔离办公的第9天，效率比较低，想学新东西，却感觉学不进去了，脑子里就想到了以前写的这篇文章，状态和决心，缺一不可呀&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="THOUGHTS" scheme="https://blog.MikeoPerfect.com/categories/THOUGHTS/"/>
+    
+    
+      <category term="value ideas" scheme="https://blog.MikeoPerfect.com/tags/value-ideas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的价值观基本面</title>
+    <link href="https://blog.mikeoperfect.com/posts/42674/"/>
+    <id>https://blog.mikeoperfect.com/posts/42674/</id>
+    <published>2020-02-07T16:00:00.000Z</published>
+    <updated>2021-06-19T15:57:58.205Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;nbsp;&amp;nbsp;时隔5年，尽管已经放弃了去探索哲学的大门，但并没有放弃思考人生的价值，今天谈一谈我所总结的价值观，需要明确的是，价值观是一种务虚的东西，千人千面，你看它是什么，它就是什么。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="THOUGHTS" scheme="https://blog.MikeoPerfect.com/categories/THOUGHTS/"/>
+    
+    
+      <category term="value ideas" scheme="https://blog.MikeoPerfect.com/tags/value-ideas/"/>
+    
+  </entry>
+  
+</feed>
